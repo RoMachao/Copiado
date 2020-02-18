@@ -1,0 +1,26 @@
+.bg-nav{
+    background-color: #ddd;
+    height: 7vh;
+    
+}
+.bg-link-active{
+    background: #cecece;
+    height: 6vh;
+}
+.logo{
+    height: 10vh;
+}
+.mail{
+    text-align: left;
+}
+.t-decoration{
+    text-decoration: none;
+    
+}
+.footer{
+    margin-bottom: 2vh;
+    
+}
+*{
+    font-family: 'Kaushan Script', cursive;
+}
